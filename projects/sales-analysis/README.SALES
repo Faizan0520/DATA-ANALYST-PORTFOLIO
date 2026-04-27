@@ -1,1 +1,39 @@
+# Sales Data Analysis
 
+ ## Objective
+Analyze sales data to uncover trends and improve revenue strategies.
+
+---
+
+##  Dataset
+- Order Date
+- Region
+- Product
+- Sales
+- Profit
+
+---
+
+## Key Steps
+- Data Cleaning
+- Handling Missing Values
+- Exploratory Data Analysis
+- Visualization
+
+---
+
+## Insights
+- West region had highest sales
+- Technology category most profitable
+- Discounts negatively impacted profit
+
+---
+
+##  Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+
+---
+
+##  Output
+- Sales trend charts
+- Profit analysis graphs
