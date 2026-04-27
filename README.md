@@ -1,2 +1,76 @@
 # DATA-ANALYST-PORTFOLIO
-Data Analyst skilled in Python, SQL, and data visualization, focused on turning raw data into actionable business insights. Experienced in EDA, customer segmentation, and trend analysis. This portfolio showcases real-world projects demonstrating analytical thinking, data storytelling, and decision-making support.
+Hi, I'm Faizan 👋  
+A Data Analyst skilled in SQL, Python, Excel, and Data Visualization.
+
+I specialize in:
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Dashboarding (Power BI / Tableau)
+- SQL Query Optimization
+- Business Insights & Reporting
+
+---
+
+## Tools & Technologies
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (MySQL / PostgreSQL)
+- Excel (Pivot Tables, VLOOKUP, Power Query)
+- Power BI / Tableau
+- Jupyter Notebook
+
+
+## Projects
+**1. Sales Data Analysis**
+**Goal:** Analyze sales trends and identify revenue drivers.
+
+**Key Insights:**
+- Identified top-performing regions contributing 40% of revenue
+- Seasonal spikes in Q4 sales
+- Customer segments driving repeat purchases
+
+🔗 [View Project](./projects/sales-analysis)
+
+---
+
+### 2️. Customer Segmentation
+**Goal:** Segment customers using clustering techniques.
+
+**Key Insights:**
+- Identified 3 major customer groups
+- High-value customers contribute ~60% revenue
+- Recommended targeted marketing strategy
+
+🔗 [View Project](./projects/customer-segmentation)
+
+---
+
+### 3️. COVID-19 Data Analysis
+**Goal:** Analyze trends in global COVID cases.
+
+**Key Insights:**
+- Peak infection waves identified
+- Correlation between vaccination and case reduction
+- Country-wise comparative analysis
+
+🔗 [View Project](./projects/covid-analysis)
+
+---
+
+## Sample Dashboard (Power BI / Tableau)
+
+- Sales Dashboard
+- Customer Insights Dashboard
+
+(Add screenshots in assets/images)
+
+---
+
+## Contact
+
+- Email: shareefmdfaizan20@gmail.com
+- GitHub: https://github.com/Faizan0520
+
+---
+
+If you like this portfolio, feel free to connect!
