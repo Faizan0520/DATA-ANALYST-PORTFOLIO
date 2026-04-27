@@ -1,1 +1,32 @@
+# Customer Segmentation
+##  Objective
+Segment customers using clustering.
+## Approach
+- Data Preprocessing
+- Feature Scaling
+- K-Means Clustering
+## Insights
+- 3 customer clusters identified
+- High spenders vs low spenders
+## Tools
+- Python
+- Scikit-learn
 
+## Results & Insights
+### 1. Customer Clusters Identified
+Using K-Means clustering, customers were segmented into three distinct groups based on income and spending behavior. This segmentation helps in understanding different customer profiles.
+
+### 2. High-Value Customers
+One cluster represents high-income, high-spending customers. These customers contribute the most revenue and should be targeted with premium offerings and loyalty programs.
+
+### 3. Budget-Conscious Customers
+Another cluster includes low-income, low-spending customers. These customers are price-sensitive and respond better to discounts and promotional campaigns.
+
+### 4. Potential Growth Segment
+A middle cluster shows moderate income but high spending behavior. This segment has strong growth potential and can be converted into high-value customers with the right engagement strategies.
+
+### 5. Business Recommendation
+- Target high-value customers with personalized marketing
+- Offer discounts to low-spending customers
+- Upsell products to mid-tier customers
+- Use segmentation for targeted campaigns instead of mass marketing
