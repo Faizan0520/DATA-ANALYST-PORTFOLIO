@@ -21,7 +21,7 @@ I specialize in:
 
 
 ## Projects
-**1. Sales Data Analysis**
+**P1. Sales Data Analysis**
 **Goal:** Analyze sales trends and identify revenue drivers.
 
 **Key Insights:**
@@ -33,7 +33,7 @@ I specialize in:
 
 ---
 
-### 2️. Customer Segmentation
+### P2️. Customer Segmentation
 **Goal:** Segment customers using clustering techniques.
 
 **Key Insights:**
@@ -45,7 +45,7 @@ I specialize in:
 
 ---
 
-### 3️. COVID-19 Data Analysis
+### P3️. COVID-19 Data Analysis
 **Goal:** Analyze trends in global COVID cases.
 
 **Key Insights:**
@@ -57,6 +57,18 @@ I specialize in:
 
 ---
 
+### P4️. AI-Powered Sales Insights
+**Goal:** Leverage AI-inspired techniques to automatically generate business insights from sales data.
+
+**Key Insights:**
+- AI model identified top-performing regions driving overall revenue
+- Detected negative correlation between discount rates and profitability
+- Automatically generated human-readable insights from raw data
+- Highlighted top-selling product categories using intelligent analysis
+
+🔗 [View Project](./projects/ai-sales-insights)
+
+---
 ## Sample Dashboard (Power BI / Tableau)
 
 - Sales Dashboard
